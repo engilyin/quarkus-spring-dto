@@ -1,0 +1,2 @@
+INSERT INTO contacts (contactId, username, first_name, last_name, company_name) VALUES (1, 'john', 'John', 'Smith', 'Super LLC');
+INSERT INTO contacts (contactId, username, first_name, last_name, company_name) VALUES (2, 'jane',  'Jane', 'Best', 'Big Bunny Inc.');
